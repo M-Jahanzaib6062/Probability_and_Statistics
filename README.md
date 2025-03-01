@@ -1,5 +1,4 @@
- Probability & Statistics with Code
-Welcome to Probability & Statistics with Code! This repository is a collaborative effort to collect and share theoretical explanations, solved examples, and code implementations (Python) related to probability and statistics.
+Welcome to Probability & Statistics! This repository is a collaborative effort to collect and share theoretical explanations, solved examples, and code implementations (Python) related to probability and statistics.
 
 📚 What You'll Find Here
 Concept explanations with theory and formulas.
